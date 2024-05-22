@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Shugaibov Valy,
+### Hi there 👋 My name is Shugaibov Vali,
 I'm located in Makhachkala, Russian Federation.
-My main job is Python Backend Developer in [Internet service provider Pautina](http://pautina05.ru/).
+My main job is Python Backend Developer in [SayraxPrint](https://sayraxprint.ru/).
 
 - 🔭 I am currently working on services for my company.
 
