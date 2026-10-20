@@ -19,7 +19,6 @@ whenever a project needed them.
 
 - 🔭 Currently building order, payment and device services for SayraxPrint
 - 🌱 Going deeper on async Python, PostgreSQL performance and clean service boundaries
-- 🎥 I record programming videos on [YouTube](https://www.youtube.com/channel/UCMPPwZojtTxUJbPXlDSKeyQ)
 - 💬 Ask me about FastAPI, Sanic, Flask, Telegram bots or PyQt
 
 ### 🛠 Tech I ship with
